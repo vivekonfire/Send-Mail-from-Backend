@@ -22,7 +22,7 @@ router.post("/", async (req, res) => {
 
     let info = await transporter.sendMail({
         from: "screamislovee@gmail.com",
-        to: "vvkm134@gmail.com",
+        to: "info@redpositive.in",
         subject: "Form Details",
         text: "vivek",
         html: output,
