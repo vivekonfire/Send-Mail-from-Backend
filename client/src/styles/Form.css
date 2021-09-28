@@ -1,0 +1,35 @@
+.form {
+    margin-top: 8rem;
+    border: 2px solid black;
+    border-radius: 4%;
+    background-color: #e9d6cc;
+}
+
+.box {
+    margin: 2rem;
+    height: 2rem;
+    width: 25rem;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    padding-left: 0.65rem;
+    padding-right: 0.65rem;
+}
+
+.btn {
+    height: 2rem;
+    width: 10rem;
+    margin: 2rem;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    padding-left: 0.65rem;
+    padding-right: 0.65rem;
+}
+
+.alert {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+    background-color: e9d6cc;
+    font-size: 2rem;
+}
